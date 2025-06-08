@@ -1,6 +1,3 @@
-Sure, here's a professional and clear project description for **MedEase** that you can use for your GitHub repository:
-
----
 
 ## 🩺 MedEase - Smart Medical Assistance Platform
 
@@ -47,5 +44,3 @@ npm run dev
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-Let me know if you'd like a version in Hindi, or if you want me to write a shorter or more casual version.
